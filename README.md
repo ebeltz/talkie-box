@@ -30,6 +30,9 @@
 
   ## Testing:
   Not applicable.
+  
+  ## Deployed Link:
+  https://protected-forest-66303.herokuapp.com 
 
   ## Additional Info:
   - Github: [ebeltz](https://github.com/ebeltz)
