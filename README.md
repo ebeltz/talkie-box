@@ -32,5 +32,5 @@
   Not applicable.
 
   ## Additional Info:
-  - Github: [wcastellan](https://github.com/wcastellan)
-  - Email: wcastellan@yahoo.com 
+  - Github: [ebeltz](https://github.com/ebeltz)
+  - Email: ebbeltz@gmail.com
