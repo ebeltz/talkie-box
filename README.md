@@ -19,6 +19,7 @@
   ## Installation:
   Once the code has been cloned, be sure to run 'npm i' in the root folder for the packages in all folders to be installed.
 
+
   ## Usage:
   This application allows for the searching, saving, deleteing, and discussing saved movies in your profile.
 
@@ -27,9 +28,6 @@
 
   ## Contribution:
   Juan Pablo Marin, Elizabeth Beltz, Michael Smith, Wyatt Castellan
-
-  ## Testing:
-  Not applicable.
   
   ## Deployed Link:
   https://protected-forest-66303.herokuapp.com 
